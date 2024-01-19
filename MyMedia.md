@@ -1,0 +1,6 @@
+#
+# Sravani Kotha
+
+#### Iam an *artist* who engaged in an activity related to creating art, practicing the arts, or demonstrating an art.One of the best things about art is that it’s a powerful form of self-expression. It’s an outlet in which you can share your experiences, thoughts, feelings and other aspects of your life. People have been using art to express themselves since prehistoric times, and the fact that they continue to do so today shows how important this function really is., and also a Dancer, Student interested in reading books, passionate chef...etc., what not i can say i am a multitasker.
+
+![](/artica.jpg)
