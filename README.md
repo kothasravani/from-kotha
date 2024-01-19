@@ -15,7 +15,8 @@ ___AUTHENTIC___,  ___AROMA___
  3. Mokkajonna Garelu
  7. Shah Ghouse Special Biryani
 
- 
-
+- Khajaguda lake
+- Lanco Hills
+- Skyhy Live
 
 
