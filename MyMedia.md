@@ -24,6 +24,18 @@
 
                         -*Haruki Murakami*
 
+#
+# Code-Fencing
+ Get the current date and time
+ The JavaScript Date prototype object creates a new method that will return the current date and time. In this snippet, we will explain how you can accomplish your task step by step.The Date object is used to get the current time in JavaScript.
+```
+const date = new Date()
+const currentTime =  `${date.getHours()}:${date.getMinutes()}:${date.getSeconds()}`
+
+```
+**Below is the Reference link to approach Java Guide:**
+
+<https://code.pieces.app/collections/javascript>
 
 
 
