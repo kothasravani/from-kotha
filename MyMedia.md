@@ -15,7 +15,15 @@
 | Last Bus to Wisdom | How he raised by his grandmother | Ivan Doig|
 | Our Share of Night |  A book about the complexities of love and longing | Mariana Enriquez |
 | Biography of X | It makes you think afresh about America and American history |Catherine Lacey|
-#
+---
+# Quotes have life
+> "You cannot find peace by avoiding life"     
+
+                        -*Virginia Woolf*     
+>"Pain is inevitable, Suffering is optional"  
+
+                        -*Haruki Murakami*
+
 
 
 
